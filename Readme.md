@@ -1,21 +1,21 @@
 <div id="top"></div>
 
-<h1 align="left">15. Designer Landing Page
+<h1 align="left">11. Hosting-Company-homepage
 </h1>
 
   <p align="left">
     <br />
-    <a href="https://designerlandingpage.netlify.app/">Deployed Link</a>
+    <a href="https://hosting-company-homepage.netlify.app/">Deployed Link</a>
   </p>
 </div>
 
 ## For large screens
 
-![large-screen](/127.0.0.1_5500_index.html.png)
+![large-screen](/large_screen.png)
 
 ## For mobile screens
 
-![large-mobile-screen](</127.0.0.1_5500_index.html%20(1).png>)
+![large-mobile-screen](/smaller_screen.png)
 
 ## Built With
 
@@ -48,11 +48,14 @@ Source Code :
 
 ## Learnings
 
+- Buiding beautiful and reusable cards using css
+- handling multiple elements to create well put layout using flex-box
+
 <!-- NOTE -->
 
 ## Time taken for building this:
 
-Took me almost `7-8` hours to build this from scratch. Majority of the time was spent on making it mobile responsive.
+Took me almost `4` hours to build this from scratch.
 
 <p align="right">(<a href="#top"> back to top </a>)</p>
 
@@ -78,5 +81,5 @@ Took me almost `7-8` hours to build this from scratch. Majority of the time was 
 
 <!-- Project screenshot -->
 
-[project-url]: https://designerlandingpage.netlify.app/
-[source-code]: https://github.com/nkumar007/15.Designerportfolio
+[project-url]: https://hosting-company-homepage.netlify.app/
+[source-code]: https://github.com/nkumar007/11.Hosting-company
